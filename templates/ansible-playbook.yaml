@@ -1,0 +1,17 @@
+name: Ansible - Global Configuration Workflow
+inputs:
+  playbook: 
+    required: true
+jobs:
+  Ansible:
+    runs-on: self-hosted
+    defaults:
+      run:
+        working-directory: ./ansible
+    steps:
+      - name: Checkout Repository (Ansible)
+        uses: actions/checkout@v3
+        with:
+          path: ansible
+      - name: Run Playbook
+        run: ansible-playbook playbooks/${{ inputs.playbook }}.yml --extra-vars "ansible_sudo_pass=${{ secrets.SUDO_PASSWORD }}"
