@@ -3,8 +3,6 @@
 **Repositories**
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|<img src="https://img.icons8.com/ios_filled/512/228BE6/git.png" height=20 align=center> |**[.github](https://github.com/epichouse/.github)**|**[actions](https://github.com/epichouse/.github/actions)**|**[settings](https://github.com/epichouse/.github/settings)**|**GitHub Organisation Repository**|
-|<img src="https://img.icons8.com/ios_filled/512/228BE6/git.png" height=20 align=center> |**[.github-private](https://github.com/epichouse/.github-private)**|**[actions](https://github.com/epichouse/.github-private/actions)**|**[settings](https://github.com/epichouse/.github-private/settings)**|**GitHub Organisation Repository**|
 |<img src="https://img.icons8.com/ios_filled/512/228BE6/git.png" height=20 align=center> |**[github-management](https://github.com/epichouse/github-management)**|**[actions](https://github.com/epichouse/github-management/actions)**|**[settings](https://github.com/epichouse/github-management/settings)**|**GitHub Management Repository**|
 |<img src="https://img.icons8.com/ios_filled/512/228BE6/git.png" height=20 align=center> |**[github-templates](https://github.com/epichouse/github-templates)**|**[actions](https://github.com/epichouse/github-templates/actions)**|**[settings](https://github.com/epichouse/github-templates/settings)**|**GitHub Actions Templates Repository**|
 
