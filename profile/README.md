@@ -3,6 +3,7 @@
 **Repositories**
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
+|<img src="https://img.icons8.com/ios_filled/512/228BE6/git.png" height=20 align=center> |**[ansible-dev](https://github.com/epichouse/ansible-dev)**|**[actions](https://github.com/epichouse/ansible-dev/actions)**|**[settings](https://github.com/epichouse/ansible-dev/settings)**|**Ansible Development**|
 |<img src="https://img.icons8.com/ios_filled/512/228BE6/git.png" height=20 align=center> |**[ansible-roles](https://github.com/epichouse/ansible-roles)**|**[actions](https://github.com/epichouse/ansible-roles/actions)**|**[settings](https://github.com/epichouse/ansible-roles/settings)**|**Ansible Role Library**|
 |<img src="https://img.icons8.com/ios_filled/512/228BE6/git.png" height=20 align=center> |**[app-config](https://github.com/epichouse/app-config)**|**[actions](https://github.com/epichouse/app-config/actions)**|**[settings](https://github.com/epichouse/app-config/settings)**|**Ansible Application Configuration**|
 |<img src="https://img.icons8.com/ios_filled/512/228BE6/git.png" height=20 align=center> |**[bash-scripts](https://github.com/epichouse/bash-scripts)**|**[actions](https://github.com/epichouse/bash-scripts/actions)**|**[settings](https://github.com/epichouse/bash-scripts/settings)**|**Custom Bash Scripts**|
