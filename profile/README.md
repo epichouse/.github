@@ -3,24 +3,7 @@
 **Repositories**
 | Repository | Description |  |  |  |
 | --- | --- | --- | --- | --- |
-|**ansible-dev**|**Ansible Development**|**[code](https://github.com/epichouse/ansible-dev)**|**[actions](https://github.com/epichouse/ansible-dev/actions)**|**[settings](https://github.com/epichouse/ansible-dev/settings)**|
-|**ansible-roles**|**Ansible Role Library**|**[code](https://github.com/epichouse/ansible-roles)**|**[actions](https://github.com/epichouse/ansible-roles/actions)**|**[settings](https://github.com/epichouse/ansible-roles/settings)**|
-|**app-config**|**Ansible Application Configuration**|**[code](https://github.com/epichouse/app-config)**|**[actions](https://github.com/epichouse/app-config/actions)**|**[settings](https://github.com/epichouse/app-config/settings)**|
-|**bash-scripts**|**Custom Bash Scripts**|**[code](https://github.com/epichouse/bash-scripts)**|**[actions](https://github.com/epichouse/bash-scripts/actions)**|**[settings](https://github.com/epichouse/bash-scripts/settings)**|
-|**client-config**|**Client Machine Configuration**|**[code](https://github.com/epichouse/client-config)**|**[actions](https://github.com/epichouse/client-config/actions)**|**[settings](https://github.com/epichouse/client-config/settings)**|
-|**code-snippets**|**Code Snippets & Command Examples**|**[code](https://github.com/epichouse/code-snippets)**|**[actions](https://github.com/epichouse/code-snippets/actions)**|**[settings](https://github.com/epichouse/code-snippets/settings)**|
-|**core-config**|**Ansible Core Configuration**|**[code](https://github.com/epichouse/core-config)**|**[actions](https://github.com/epichouse/core-config/actions)**|**[settings](https://github.com/epichouse/core-config/settings)**|
-|**docker-dev**|**Docker Image Development**|**[code](https://github.com/epichouse/docker-dev)**|**[actions](https://github.com/epichouse/docker-dev/actions)**|**[settings](https://github.com/epichouse/docker-dev/settings)**|
-|**docs**|**Documentation**|**[code](https://github.com/epichouse/docs)**|**[actions](https://github.com/epichouse/docs/actions)**|**[settings](https://github.com/epichouse/docs/settings)**|
 |**github-management**|**GitHub Organisation Configuration**|**[code](https://github.com/epichouse/github-management)**|**[actions](https://github.com/epichouse/github-management/actions)**|**[settings](https://github.com/epichouse/github-management/settings)**|
 |**github-templates**|**GitHub Actions Template Library**|**[code](https://github.com/epichouse/github-templates)**|**[actions](https://github.com/epichouse/github-templates/actions)**|**[settings](https://github.com/epichouse/github-templates/settings)**|
-|**k8s-dev**|**Kubernetes Development**|**[code](https://github.com/epichouse/k8s-dev)**|**[actions](https://github.com/epichouse/k8s-dev/actions)**|**[settings](https://github.com/epichouse/k8s-dev/settings)**|
-|**k8s-dev-2**|**Kubernetes Development**|**[code](https://github.com/epichouse/k8s-dev-2)**|**[actions](https://github.com/epichouse/k8s-dev-2/actions)**|**[settings](https://github.com/epichouse/k8s-dev-2/settings)**|
-|**nas-config**|**Ansible NAS Configuration**|**[code](https://github.com/epichouse/nas-config)**|**[actions](https://github.com/epichouse/nas-config/actions)**|**[settings](https://github.com/epichouse/nas-config/settings)**|
-|**packer-dev**|**Packer Image Bakery**|**[code](https://github.com/epichouse/packer-dev)**|**[actions](https://github.com/epichouse/packer-dev/actions)**|**[settings](https://github.com/epichouse/packer-dev/settings)**|
-|**powershell-scripts**|**Custom Powershell Scripts**|**[code](https://github.com/epichouse/powershell-scripts)**|**[actions](https://github.com/epichouse/powershell-scripts/actions)**|**[settings](https://github.com/epichouse/powershell-scripts/settings)**|
-|**python-dev**|**Legacy Python Development**|**[code](https://github.com/epichouse/python-dev)**|**[actions](https://github.com/epichouse/python-dev/actions)**|**[settings](https://github.com/epichouse/python-dev/settings)**|
-|**software-licensing**|**Software Licenses**|**[code](https://github.com/epichouse/software-licensing)**|**[actions](https://github.com/epichouse/software-licensing/actions)**|**[settings](https://github.com/epichouse/software-licensing/settings)**|
-|**terraform-dev**|**Terraform Development**|**[code](https://github.com/epichouse/terraform-dev)**|**[actions](https://github.com/epichouse/terraform-dev/actions)**|**[settings](https://github.com/epichouse/terraform-dev/settings)**|
 
 This file is automatically populated by Terraform  
